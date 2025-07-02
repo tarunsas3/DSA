@@ -8,3 +8,25 @@
 </br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=tarunsas3&style=for-the-badge&label=VIEWS&color=0e75b6" alt="tarunsas3" /> </p> -->
 </br>
+
+<div align="center">
+
+<h4 align="center"><em> Problems Solved</em></h4>
+
+| Problem Name                       | Category                        | Difficulty |
+|-----------------------------------|----------------------------------|------------|
+| Contains Duplicate                | Hashing, Array                  | Easy       |
+| Valid Anagram                     | Hashing, String                 | Easy       |
+| Two Sum                           | Hash Map                        | Easy       |
+| Group Anagrams                    | Hashing, Sorting                | Medium     |
+| Top K Frequent Elements           | Heap, Hash Map, Bucket Sort     | Medium     |
+| Valid Palindrome                  | Two Pointers, String            | Easy       |
+| Longest Consecutive Sequence      | Hashing, Set, Array             | Medium     |
+| Valid Sudoku                      | Hashing, Matrix                 | Medium     |
+| Product of Array Except Self      | Prefix, Suffix, Array           | Medium     |
+| Encode and Decode Strings         | String, Design                  | Medium     |
+| Two Sum II - Input Array Is Sorted| Two Pointers                    | Medium     |
+| Container With Most Water         | Two Pointers                    | Medium     |
+
+
+</div>
