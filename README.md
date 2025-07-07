@@ -13,20 +13,29 @@
 
 <h4 align="center"><em> Problems Solved</em></h4>
 
-| Problem Name                       | Category                        | Difficulty |
-|-----------------------------------|----------------------------------|------------|
-| Contains Duplicate                | Hashing, Array                  | Easy       |
-| Valid Anagram                     | Hashing, String                 | Easy       |
-| Two Sum                           | Hash Map                        | Easy       |
-| Group Anagrams                    | Hashing, Sorting                | Medium     |
-| Top K Frequent Elements           | Heap, Hash Map, Bucket Sort     | Medium     |
-| Valid Palindrome                  | Two Pointers, String            | Easy       |
-| Longest Consecutive Sequence      | Hashing, Set, Array             | Medium     |
-| Valid Sudoku                      | Hashing, Matrix                 | Medium     |
-| Product of Array Except Self      | Prefix, Suffix, Array           | Medium     |
-| Encode and Decode Strings         | String, Design                  | Medium     |
-| Two Sum II - Input Array Is Sorted| Two Pointers                    | Medium     |
-| Container With Most Water         | Two Pointers                    | Medium     |
+| Problem Name                              | Category                            | Difficulty |
+|------------------------------------------|-------------------------------------|------------|
+| Contains Duplicate                       | Hashing, Array                      | Easy       |
+| Valid Anagram                            | Hashing, String                     | Easy       |
+| Two Sum                                  | Hash Map                            | Easy       |
+| Group Anagrams                           | Hashing, Sorting                    | Medium     |
+| Top K Frequent Elements                  | Heap, Hash Map, Bucket Sort         | Medium     |
+| Valid Palindrome                         | Two Pointers, String                | Easy       |
+| Longest Consecutive Sequence             | Hashing, Set, Array                 | Medium     |
+| Valid Sudoku                             | Hashing, Matrix                     | Medium     |
+| Product of Array Except Self             | Prefix, Suffix, Array               | Medium     |
+| Two Sum II - Input Array Is Sorted       | Two Pointers                        | Medium     |
+| Container With Most Water                | Two Pointers                        | Medium     |
+| 3Sum                                     | Sorting, Two Pointers               | Medium     |
+| Best Time to Buy and Sell Stock          | One Pass, Kadane’s Algorithm        | Easy       |
+| Longest Substring Without Repeating Characters | Sliding Window, Hash Set     | Medium     |
+| Longest Repeating Character Replacement  | Sliding Window, Hash Map            | Medium     |
+| Valid Parentheses                        | Stack, String                       | Easy       |
+| Min Stack                                | Stack, Design                       | Medium     |
+| Daily Temperatures                       | Stack, Monotonic Stack              | Medium     |
+| Binary Search                            | Binary Search, Array                | Easy       |
+| Find Minimum in Rotated Sorted Array     | Binary Search, Array                | Medium     |
+
 
 
 </div>
