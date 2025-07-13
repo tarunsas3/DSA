@@ -35,7 +35,18 @@
 | Daily Temperatures                       | Stack, Monotonic Stack              | Medium     |
 | Binary Search                            | Binary Search, Array                | Easy       |
 | Find Minimum in Rotated Sorted Array     | Binary Search, Array                | Medium     |
-
+| Search in Rotated Sorted Array           | Binary Search                       | Medium     |
+| Reverse Linked List                      | Linked List                         | Easy       |
+| Linked List Cycle                        | Linked List, Two Pointers           | Easy       |
+| Merge Two Sorted Lists                   | Linked List, Recursion              | Easy       |
+| Remove Nth Node From End of List         | Linked List, Two Pointers           | Medium     |
+| Reorder List                             | Linked List, Two Pointers           | Medium     |
+| Invert Binary Tree                       | Tree, DFS                           | Easy       |
+| Maximum Depth of Binary Tree             | Tree, DFS, BFS                      | Easy       |
+| Diameter of Binary Tree                  | Tree, DFS                           | Easy       |
+| Balanced Binary Tree                     | Tree, DFS                           | Easy       |
+| Same Tree                                | Tree, DFS, Recursion                | Easy       |
+| Subtree of Another Tree                  | Tree, DFS, Recursion                | Easy       |
 
 
 </div>
