@@ -38,6 +38,7 @@
 | Search in Rotated Sorted Array           | Binary Search                       | Medium     |
 | Reverse Linked List                      | Linked List                         | Easy       |
 | Linked List Cycle                        | Linked List, Two Pointers           | Easy       |
+| LRU Cache                                | Design, Hash Map, Doubly Linked List| Medium     |
 | Merge Two Sorted Lists                   | Linked List, Recursion              | Easy       |
 | Remove Nth Node From End of List         | Linked List, Two Pointers           | Medium     |
 | Reorder List                             | Linked List, Two Pointers           | Medium     |
@@ -47,6 +48,13 @@
 | Balanced Binary Tree                     | Tree, DFS                           | Easy       |
 | Same Tree                                | Tree, DFS, Recursion                | Easy       |
 | Subtree of Another Tree                  | Tree, DFS, Recursion                | Easy       |
+| Lowest Common Ancestor of a Binary Tree  | Tree, DFS                           | Medium     |
+| Binary Tree Level Order Traversal        | Tree, BFS, Queue                    | Medium     |
+| Binary Tree Right Side View              | Tree, BFS, DFS                      | Medium     |
+| Count Good Nodes in Binary Tree          | Tree, DFS                           | Medium     |
+| Validate Binary Search Tree              | BST, DFS, Recursion                 | Medium     |
+| Kth Smallest Element in a BST            | BST, Inorder Traversal              | Medium     |
+| Kth Largest Element in a Stream          | Heap, Priority Queue                | Medium     |
 
 
 </div>
