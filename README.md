@@ -55,6 +55,15 @@
 | Validate Binary Search Tree              | BST, DFS, Recursion                 | Medium     |
 | Kth Smallest Element in a BST            | BST, Inorder Traversal              | Medium     |
 | Kth Largest Element in a Stream          | Heap, Priority Queue                | Medium     |
+| Last Stone Weight                        | Heap, Sorting                       | Easy       |
+| Kth Largest Element in an Array          | Heap, Quickselect                   | Medium     |
+| Number of Islands                        | DFS, BFS, Union Find                | Medium     |
+| Max Area of Island                       | DFS, BFS                            | Medium     |
+| Clone Graph                              | DFS, BFS, Graph                     | Medium     |
+| Pacific Atlantic Water Flow              | DFS, BFS                            | Medium     |
+| Surrounded Regions                       | DFS, BFS                            | Medium     |
+| Course Schedule                          | Graph, Topological Sort             | Medium     |
+| Course Schedule II                       | Graph, Topological Sort             | Medium     |
 
 
 </div>
